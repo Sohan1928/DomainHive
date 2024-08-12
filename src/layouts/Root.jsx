@@ -4,7 +4,7 @@ import Nav from "../Page/Nav";
 
 const Root = () => {
   return (
-    <div>
+    <div className="font-family bg-cyan-300">
       <Nav></Nav>
       <Outlet></Outlet>
     </div>

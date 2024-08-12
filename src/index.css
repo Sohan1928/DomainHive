@@ -1,9 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+.font-family {
+  font-family: "Montserrat", sans-serif;
+}
+
 nav a.active {
-  color: orange;
+  color: powderblue;
   padding: 5px;
   border-radius: 8px;
 }

@@ -1,9 +1,12 @@
 import React from "react";
+import Banner from "../components/Banner";
+import SearchDomain from "../components/SearchDomain";
 
 const Home = () => {
   return (
     <div>
-      <h1>This is home page</h1>
+      <Banner></Banner>
+      <SearchDomain></SearchDomain>
     </div>
   );
 };

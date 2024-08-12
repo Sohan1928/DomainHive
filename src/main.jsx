@@ -7,6 +7,7 @@ import Home from "./layouts/Home";
 import Packages from "./Page/Packages";
 import Help from "./Page/Help";
 import Contacts from "./Page/Contacts";
+import SearchDomain from "./components/SearchDomain";
 
 const router = createBrowserRouter([
   {
