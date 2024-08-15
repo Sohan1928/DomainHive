@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Banner = () => {
   return (
-    <div className="max-w-7xl mx-auto py-8 px-10">
+    <div className="max-w-7xl mx-auto py-24 md:py-12 px-10">
       <div className="md:flex items-center">
         <div className="">
           <h1 className="text-4xl md:text-7xl pb-6 font-bold">
@@ -22,7 +22,10 @@ const Banner = () => {
           </button>
         </div>
         <div>
-          <img src="bannerImg.webp" alt="" />
+          <img
+            src="https://res.cloudinary.com/du0uabbwo/image/upload/v1723733132/sirefmgnsh1uu7fxtwkp.webp"
+            alt=""
+          />
         </div>
       </div>
     </div>
