@@ -7,12 +7,13 @@ import Home from "./layouts/Home";
 import Packages from "./Page/Packages";
 import Help from "./Page/Help";
 import Contacts from "./Page/Contacts";
-import SearchDomain from "./components/SearchDomain";
+import ErrorPage from "./components/ErrorPage";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: "/",

@@ -3,6 +3,9 @@ import Banner from "../components/Banner";
 import SearchDomain from "../components/SearchDomain";
 import AmazingFeatures from "../components/AmazingFeatures";
 import ChoosePlan from "../components/ChoosePlan";
+import GlobalServer from "../components/GlobalServer";
+import Support from "../components/Support";
+import Faq from "../components/Faq";
 
 const Home = () => {
   return (
@@ -11,6 +14,9 @@ const Home = () => {
       <SearchDomain></SearchDomain>
       <AmazingFeatures></AmazingFeatures>
       <ChoosePlan></ChoosePlan>
+      <GlobalServer></GlobalServer>
+      <Support></Support>
+      <Faq></Faq>
     </div>
   );
 };

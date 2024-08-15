@@ -11,8 +11,9 @@ const ChoosePlan = () => {
           </h1>
           <p className="opacity-80">
             Supercharge your website hosting with detailed website analytics,
-            marketing tools. Our experts are just part of the reason Bluehost is
-            the ideal home for your website. We're here to help you succeed!
+            marketing tools. Our experts are <br /> just part of the reason
+            Bluehost is the ideal home for your website. We're here <br /> to
+            help you succeed!
           </p>
         </div>
         <div>

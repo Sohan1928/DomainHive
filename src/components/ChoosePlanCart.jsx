@@ -25,7 +25,7 @@ const ChoosePlanCart = () => {
           </p>
         </div>
         <div className="pt-8">
-          <button className="px-6 md:px-8 py-4 rounded-full text-white bg-purple-500 hover:bg-purple-600 font-bold">
+          <button className="px-4 md:px-8 py-4 rounded-full text-black hover:text-white border border-purple-600 hover:bg-purple-600 font-bold">
             Get Started
           </button>
         </div>
@@ -37,12 +37,12 @@ const ChoosePlanCart = () => {
             src="https://res.cloudinary.com/du0uabbwo/image/upload/v1723740368/f53owaveiej13s10fnuo.png"
             alt=""
           />
-          <h3 className="font-bold text-xl mt-4">Shared Hosting</h3>
+          <h3 className="font-bold text-xl mt-4">Dedicated Hosting</h3>
         </div>
         <div className="pt-6">
           <h4>Starting at</h4>
           <h3 className="pt-2">
-            <span className="text-2xl font-bold text-purple-800">$6.80</span> /
+            <span className="text-2xl font-bold text-purple-800">$8.60</span> /
             month
           </h3>
           <p className="opacity-80 pt-8">
@@ -52,7 +52,7 @@ const ChoosePlanCart = () => {
           </p>
         </div>
         <div className="pt-8">
-          <button className="px-6 md:px-8 py-4 rounded-full text-white bg-purple-500 hover:bg-purple-600 font-bold">
+          <button className="px-4 md:px-8 py-4 rounded-full  text-black hover:text-white border border-purple-600 hover:bg-purple-600 font-bold">
             Get Started
           </button>
         </div>
@@ -64,12 +64,12 @@ const ChoosePlanCart = () => {
             src="https://res.cloudinary.com/du0uabbwo/image/upload/v1723740368/f53owaveiej13s10fnuo.png"
             alt=""
           />
-          <h3 className="font-bold text-xl mt-4">Shared Hosting</h3>
+          <h3 className="font-bold text-xl mt-4">Cloud Hosting</h3>
         </div>
         <div className="pt-6">
           <h4>Starting at</h4>
           <h3 className="pt-2">
-            <span className="text-2xl font-bold text-purple-800">$6.80</span> /
+            <span className="text-2xl font-bold text-purple-800">$12.30</span> /
             month
           </h3>
           <p className="opacity-80 pt-8">
@@ -79,7 +79,7 @@ const ChoosePlanCart = () => {
           </p>
         </div>
         <div className="pt-8 text-center">
-          <button className="px-6 md:px-8 py-4 rounded-full text-white bg-purple-500 hover:bg-purple-600 font-bold">
+          <button className="px-4 md:px-8 py-4 rounded-full  text-black hover:text-white border border-purple-600 hover:bg-purple-600 font-bold">
             Get Started
           </button>
         </div>
